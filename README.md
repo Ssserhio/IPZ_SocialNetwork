@@ -65,4 +65,11 @@ node server.js
 
 
 
+# Authors
+|**Name**|**Telegram**|
+|-------------------|-----------|
+|*Гордійчук Юрій*|https://t.me/yurets2008|
+|*Бурбело Сергій*|https://t.me/sserega9|
+
+
 
