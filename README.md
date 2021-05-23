@@ -2,6 +2,12 @@
   >Ready sign-up/in on JWT, profile, edit profile + socLinks, 50/50 ready chat on socket.io, globalLoading + JWT re-routes.
   JWT save in localStorage(vuex-persistedstate)
   >  
+# Authors
+|**Name**|**Group**|**Telegram**|
+|-------------------|-------------------------------|-----------|
+|*Гордійчук Юрій*|IV-93|https://t.me/yurets2008|
+|*Бурбело Сергій*|IV-91|https://t.me/sserega9|
+
 ### Stack: ###
 - M(mongoose)
 - Express
@@ -62,15 +68,4 @@ node server.js
 ![image](https://user-images.githubusercontent.com/43111628/119262086-a169ca80-bbe2-11eb-88f7-001a3a78d77d.png)
 # Socket connection / middleware validate JWT
 ![image](https://user-images.githubusercontent.com/43111628/119262141-db3ad100-bbe2-11eb-9bf3-44f3a83adef7.png)
-
-
-
-# Authors
-|**Name**|**Group**|**Telegram**|
-|-------------------|-------------------------------|-----------|
-|*Гордійчук Юрій*|IV-93|https://t.me/yurets2008|
-|*Бурбело Сергій*|IV-91|https://t.me/sserega9|
-
-
-
 
